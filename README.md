@@ -20,13 +20,13 @@ While you can always multiply two natural numbers and get back a natural number.
 
 ⏲️ _Estimated time required: 45 minutes._
 
-- [Introduction to Math](_pre-lecture/intro_to_math.ipynb)
+- [Introduction to Math](_pre-lecture/pre_intro_to_math.ipynb)
 
 ---
 
 ## 🦉 Lecture
 
-- [Introduction to Math](_lecture/intro_to_math-lecture.ipynb)
+- [Introduction to Math](_lecture/lec_intro_to_math-lecture.ipynb)
 
 ---
 
